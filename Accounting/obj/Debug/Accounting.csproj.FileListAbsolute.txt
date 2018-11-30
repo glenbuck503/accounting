@@ -1,0 +1,7 @@
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Accounting\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Accounting\Accounting\bin\Debug\Accounting.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Accounting\Accounting\bin\Debug\Accounting.pdb
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Accounting\Accounting\obj\Debug\Accounting.csprojAssemblyReference.cache
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Accounting\Accounting\obj\Debug\Accounting.csproj.CoreCompileInputs.cache
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Accounting\Accounting\obj\Debug\Accounting.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Accounting\Accounting\obj\Debug\Accounting.pdb
